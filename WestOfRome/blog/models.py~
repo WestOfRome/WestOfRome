@@ -4,4 +4,4 @@ class BlogPost(models.Model):
     title = models.CharField(max_length=150)
     body = models.TextField()
     timestamp = models.DateTimeField()
-    blog.category = models.PositiveSmallIntegerField()
+    blog_category = models.PositiveSmallIntegerField()
