@@ -1,3 +1,4 @@
+bug.sh
 *.pyc
 .*swp
 DjangoSecretKey
